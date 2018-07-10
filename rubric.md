@@ -10,7 +10,7 @@ Passing requires all values
 * [] Returns CORS headers
 * [] Returns 200 status codes for data
 * [] Returns 404 status codes for invalid IDs
-* [] Deployed https://git.heroku.com/serve-data-2-express.git
+* [] Deployed https://safe-taiga-98060.herokuapp.com/
 
 ## Style
 
